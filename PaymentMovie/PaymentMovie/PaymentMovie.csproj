@@ -22,6 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,7 +47,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class\Platinum.cs" />
+    <Compile Include="Class\List.cs" />
+    <Compile Include="Class\Phim.cs" />
+    <Compile Include="Class\PhimTamLy.cs" />
+    <Compile Include="Class\PhimTamLyFactory.cs" />
+    <Compile Include="Class\PhimTinhCam.cs" />
+    <Compile Include="Class\PhimTinhCamFactory.cs" />
+    <Compile Include="Class\PhimVienTuong.cs" />
+    <Compile Include="Class\PhimVienTuongFactory.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,7 +68,6 @@
     <Compile Include="Form3.Designer.cs">
       <DependentUpon>Form3.cs</DependentUpon>
     </Compile>
-    <Compile Include="Class\PlatinumFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Class\SinhVien.cs" />

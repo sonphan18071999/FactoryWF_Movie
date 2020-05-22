@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.panel3 = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.rdDiamond = new System.Windows.Forms.RadioButton();
             this.rdNormal = new System.Windows.Forms.RadioButton();
@@ -48,7 +47,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.lvChoNgoi = new System.Windows.Forms.ListBox();
+            this.lvChoNgoi = new System.Windows.Forms.ListView();
+            this.label7 = new System.Windows.Forms.Label();
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -63,17 +63,6 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(555, 34);
             this.panel3.TabIndex = 27;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(203, 5);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(105, 32);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "Screen";
             // 
             // panel2
             // 
@@ -265,12 +254,23 @@
             // 
             // lvChoNgoi
             // 
-            this.lvChoNgoi.FormattingEnabled = true;
-            this.lvChoNgoi.ItemHeight = 16;
-            this.lvChoNgoi.Location = new System.Drawing.Point(108, 291);
+            this.lvChoNgoi.HideSelection = false;
+            this.lvChoNgoi.Location = new System.Drawing.Point(111, 291);
             this.lvChoNgoi.Name = "lvChoNgoi";
-            this.lvChoNgoi.Size = new System.Drawing.Size(194, 132);
-            this.lvChoNgoi.TabIndex = 28;
+            this.lvChoNgoi.Size = new System.Drawing.Size(191, 113);
+            this.lvChoNgoi.TabIndex = 27;
+            this.lvChoNgoi.UseCompatibleStateImageBehavior = false;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(203, 5);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(105, 32);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "Screen";
             // 
             // Form3
             // 
@@ -317,7 +317,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.ListView lvChoNgoi;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.ListBox lvChoNgoi;
     }
 }
