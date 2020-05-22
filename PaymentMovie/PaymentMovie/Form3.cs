@@ -48,9 +48,10 @@ namespace PaymentMovie
             Button seat = (Button)sender;
             //MessageBox.Show(seat.Name.ToString());
             //Thêm vào ghế ngồi
-            if (lvChoNgoi.Items.ContainsKey(seat.Name))
+            
+            if (lvChoNgoi.Items.Contains(seat.Name))
             {
-                lvChoNgoi.Items.RemoveByKey(seat.Name);
+                lvChoNgoi.Items.Remove(seat.Name);
             }
             else
             {
@@ -97,7 +98,7 @@ namespace PaymentMovie
             }
             else if (rdPlatinum.Checked == true)
             {
-
+                vephim = new PlatinumFactory(tenphim, hour, chongoi, sophong);
             }
             else
             {
