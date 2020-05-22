@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentMovie", "PaymentMovie\PaymentMovie.csproj", "{13CD9704-3C24-4FE6-8E34-DDC47BCEE84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CD9704-3C24-4FE6-8E34-DDC47BCEE84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CD9704-3C24-4FE6-8E34-DDC47BCEE84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CD9704-3C24-4FE6-8E34-DDC47BCEE84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CD9704-3C24-4FE6-8E34-DDC47BCEE84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB70EE4-90D9-4442-82D1-C5029D1A563C}
+	EndGlobalSection
+EndGlobal
