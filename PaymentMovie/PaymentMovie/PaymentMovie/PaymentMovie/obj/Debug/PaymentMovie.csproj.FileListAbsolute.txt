@@ -1,0 +1,12 @@
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\bin\Debug\PaymentMovie.exe.config
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\bin\Debug\PaymentMovie.exe
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\bin\Debug\PaymentMovie.pdb
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.FPayment.resources
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.Properties.Resources.resources
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.Submit.resources
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.csproj.GenerateResource.cache
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.csproj.CoreCompileInputs.cache
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.exe
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.pdb
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.Form3.resources
+D:\Hoc tap\Nam 3\Nam 3_HKII\Phan mem huong doi tuong\Midterm\Winform\Test\Movie_Search_Catalog\PaymentMovie\PaymentMovie\obj\Debug\PaymentMovie.csprojAssemblyReference.cache
